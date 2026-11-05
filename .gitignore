@@ -1,0 +1,12 @@
+# Solo se sube la página: todo lo demás queda en la computadora
+*
+!.gitignore
+!index.html
+!styles.css
+!main.js
+!hero-motion.js
+!img/
+img/*
+!img/camila-avatar.webp
+!img/camila-camara.webp
+!img/camila-claqueta.webp
