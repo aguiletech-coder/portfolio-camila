@@ -321,7 +321,7 @@ section { padding: clamp(5rem, 11vw, 9rem) var(--gutter) 0; }
   .hero-role { font-size: clamp(1.5rem, 7.5vw, 2.2rem); }
 
   .about-stage { grid-template-columns: 1fr; gap: 0; }
-  .about-head { min-height: 128vw; }
+  .about-head { min-height: 144vw; }
   .about-fig { height: 128vw; }
   .about-title { font-size: 25vw; }
   .about-fig { left: 40%; top: 14vw; height: 128vw; max-width: 56vw; }
