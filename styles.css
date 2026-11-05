@@ -103,7 +103,7 @@ em { font-style: normal; }
   opacity: 0; visibility: hidden; transition: opacity .3s var(--ease-out), visibility .3s;
 }
 .menu.open { opacity: 1; visibility: visible; }
-.menu a { font: 400 clamp(3rem, 16vw, 5rem)/1.05 var(--f-display); text-transform: uppercase; text-decoration: none; }
+.menu a { font: 400 clamp(2.75rem, calc(16vw - 4px), 4.75rem)/1.05 var(--f-display); text-transform: uppercase; text-decoration: none; }
 .menu a:hover { color: var(--pink); }
 
 /* ───────── Hero ───────── */
